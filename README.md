@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,dart,java,c,py,laravel,flutter,react,nodejs,expressjs,mongodb,mysql,firebase,bootstrap,tailwind,postman,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
-#### Connect with me
+#### Connect With Me
 
 <div align="left">
   <a href="https://instagram.com/frns_daniel" target="_blank">
