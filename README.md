@@ -22,9 +22,14 @@ Here are some ideas to get you started:
 #### About Me
 
 🎓 Currently studying Informatics (Computer Science)
+
 🌱 Actively learning Web Development, Mobile Development, and Databases
+
 🛠️ Interested in building real-world web and mobile applications
+
 📚 Passionate about solving problems with clean and efficient code
+
+♟️ I also enjoy playing chess to sharpen my problem-solving skills, strategic thinking, and quick decision-making
 
 #### Skills
 
