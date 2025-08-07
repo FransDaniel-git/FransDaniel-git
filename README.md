@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ![Dax](img/github-header-banner.png)
 
-![Dax](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMDI0bjA1aHp1aGg1cnFyOHUzNzJidHUzNHZuOXg4NGF3bmY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMDI0bjA1aHp1aGg1cnFyOHUzNzJidHUzNHZuOXg4NGF3bmY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif" alt="Dax" />
+</p>
 
 #### About Me
 
@@ -39,6 +41,8 @@ Here are some ideas to get you started:
 <a href="mailto:fransrajagukguk88@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30">
 </a>
+
+#### XD
 
 <img src="https://raw.githubusercontent.com/FransDaniel-git/FransDaniel-git/output/snake.svg" alt="Snake animation" />
 
