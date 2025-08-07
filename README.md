@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 📚 Passionate about solving problems with clean and efficient code
 
-♟️ I also enjoy playing chess to sharpen my problem-solving skills, strategic thinking, and quick decision-making
+♟️ Enjoy playing chess to sharpen problem-solving skills, strategic thinking, and quick decision-making
 
-#### Skills
+#### Languages & Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,dart,java,c,py,laravel,flutter,react,nodejs,expressjs,mongodb,mysql,firebase,bootstrap,tailwind,postman,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
