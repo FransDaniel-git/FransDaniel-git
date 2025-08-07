@@ -32,15 +32,19 @@ Here are some ideas to get you started:
 
 #### Connect with me
 
-<a href="https://instagram.com/frns_daniel">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30">
-</a>
-<a href="https://tiktok.com/@frns_daniel">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="30">
-</a>
-<a href="mailto:fransrajagukguk88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30">
-</a>
+<div align="left">
+  <a href="https://instagram.com/frns_daniel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:fransrajagukguk88@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/6281344284520" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
 
 #### XD
 
