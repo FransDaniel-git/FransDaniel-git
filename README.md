@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Frans Daniel 👋
 
 <!--
 **FransDaniel-git/FransDaniel-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dax](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMDI0bjA1aHp1aGg1cnFyOHUzNzJidHUzNHZuOXg4NGF3bmY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif)
