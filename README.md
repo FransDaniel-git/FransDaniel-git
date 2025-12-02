@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### Languages & Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,dart,java,c,py,laravel,flutter,react,nodejs,expressjs,mongodb,mysql,firebase,bootstrap,tailwind,postman,git,github&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,dart,java,c,py,laravel,flutter,react,mysql,bootstrap,tailwind,postman,github&theme=dark&perline=7)](https://skillicons.dev)
 
 #### Connect With Me
 
