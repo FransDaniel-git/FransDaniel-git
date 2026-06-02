@@ -21,33 +21,25 @@ Here are some ideas to get you started:
 
 #### About Me
 
-🎓 Currently studying Informatics (Computer Science)
+- Currently studying Informatics (Computer Science)
+- Actively learning Web Development, Mobile Development, Databases, and App Security
+- Interested in building real-world web and mobile applications
+- Passionate about solving problems with clean and efficient code
+- Enjoy playing chess to sharpen problem-solving skills, strategic thinking, and quick decision-making
 
-🌱 Actively learning Web Development, Mobile Development, and Databases
+#### Skills
 
-🛠️ Interested in building real-world web and mobile applications
-
-📚 Passionate about solving problems with clean and efficient code
-
-♟️ Enjoy playing chess to sharpen problem-solving skills, strategic thinking, and quick decision-making
-
-#### Languages & Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,dart,java,c,py,laravel,flutter,react,mysql,bootstrap,tailwind,postman&theme=dark&perline=5)](https://skillicons.dev)
+- **Programming Languages:** JavaScript, TypeScript, PHP, Dart, Java, C, HTML, CSS
+- **Frameworks & Libraries:** React, Flutter, Laravel, Yii 2, Inertia, Tailwind CSS, Bootstrap
+- **Databases & BaaS:** MySQL, PostgreSQL, Firebase
+- **Tools:** Visual Studio Code, Android Studio, pgAdmin, Laragon, XAMPP, Docker, Git & GitHub, Postman, Figma, Chrome DevTools, Burp Suite
 
 #### Connect With Me
 
-<div align="left">
-  <a href="https://instagram.com/frns_daniel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:fransrajagukguk88@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/6281344284520" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/frns_daniel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransrajagukguk88@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281344284520)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FransDaniel-git)
 
 ###
 
