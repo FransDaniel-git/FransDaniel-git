@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 #### Skills
 
-- **Programming Languages:** JavaScript, TypeScript, PHP, Dart, Java, HTML, CSS, C
-- **Frameworks & Libraries:** React, Node.js, Express.js, Laravel, Flutter, Firebase, Tailwind CSS, Bootstrap, Inertia, Yii 2
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** JavaScript, TypeScript, PHP, Dart, Java, Python, C, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express.js, Laravel, Yii 2, Flutter, Firebase, Tailwind CSS, Bootstrap, Inertia
+- **Databases & Caching:** MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, MongoDB, Redis
 - **Security & Testing:** OWASP Top 10, SAST/DAST, Burp Suite, Playwright, PHPUnit, Vitest, Postman
-- **Dev Tools:** Git & GitHub, Docker, Visual Studio Code, Chrome DevTools, Android Studio, Figma, pgAdmin, Laragon
+- **DevOps & Infrastructure:** Git, GitLab, GitHub, Docker, Kubernetes
+- **Development Tools:** Claude Code, OpenAI Codex, OpenCode, Visual Studio Code, 9Router, Chrome DevTools, Android Studio, Figma, pgAdmin, Laragon
 - **Soft Skills:** Problem Solving, Critical Thinking, Team Collaboration, Adaptability, Time Management
 
 #### Connect With Me
